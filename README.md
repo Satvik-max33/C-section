@@ -3,11 +3,11 @@
 Welcome to the Class Notes & Collaboration Hub! This repository is a space for us to share notes, resources, and study materials. Let's help each other succeed by keeping everything organized and up-to-date!
 
 📋 Contents
-Math
-Chem
-Python
-EPD
-Mech
+Math,
+Chem,
+Python,
+EPD,
+Mech,
 Feel free to add more subjects or topics as needed!
 
 🚀 How to Contribute
